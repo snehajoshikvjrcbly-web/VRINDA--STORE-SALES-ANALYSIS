@@ -8,5 +8,6 @@ state wise sales performance
 tools used
 microsoft excel
 pivot tables
-charts
+char
+ts
 data visualization
